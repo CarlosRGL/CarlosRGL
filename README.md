@@ -6,7 +6,7 @@
 
 ## Hi there 👋
 
-I'm Carlos RGL, Software Developer from Pamplona (Spain) and now livin in France 🏴‍☠️. I am an enthusiast of Clean Code, always trying to learn how to do my best and how to share it with the community
+I'm Carlos RGL, Software Developer from Pamplona (Spain) and now living in France 🏴‍☠️. I am an enthusiast of Clean Code, always trying to learn how to do my best and how to share it with the community
 
 ## About 🧐
 
