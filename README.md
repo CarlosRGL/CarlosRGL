@@ -1,16 +1,22 @@
-### Hi there 👋
+# CarlosRGL
 
-<!--
-**CarlosRGL/CarlosRGL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Badge](https://img.shields.io/badge/-@Carlosrgl_88-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Carlosrgl_88)](https://twitter.com/Carlosrgl_88)
+[![Linkedin Badge](https://img.shields.io/badge/CarlosRGL-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-ruiz-de-galarreta-494b5842/)](https://www.linkedin.com/in/carlos-ruiz-de-galarreta-494b5842/)
+[![Gmail Badge](https://img.shields.io/badge/-hello@carlosrgl.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@carlosrgl.com)](mailto:hello@carlosrgl.com)
 
-Here are some ideas to get you started:
+## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Carlos RGL, Software Developer from Pamplona (Spain) and now livin in France 🏴‍☠️. I am an enthusiast of Clean Code, always trying to learn how to do my best and how to share it with the community
+
+## About 🧐
+
+- 💻 Wordpress full developer
+- 🏍️ MotoGP Addict
+
+## Hello World!! 🤔
+
+- 🔭 I’m currently working with php & javascript & Wordpress at [Quai 13](https://quai13.com), a web agency based in Marseille
+- 🌱 I’m currently learning about React & TS, Symfony, TDD, Clean architectures and more!
+- ⚡ Fun fact: I graduated in Economy and financial markets before studying web development
+- 📫 Reach me in [Linkedin](https://www.linkedin.com/in/carlos-ruiz-de-galarreta-494b5842/) | [Twitter](https://twitter.com/Carlosrgl_88) or [Gmail](mailto:hello@carlosrgl.com)
+<!-- - 🎯 Portfolio site: [Here!](https://pabloleonalcaide.github.io/Portfolio/) -->
