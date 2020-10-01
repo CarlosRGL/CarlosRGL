@@ -18,5 +18,5 @@ I'm Carlos RGL, Software Developer from Pamplona (Spain) and now living in Franc
 - 🔭 I’m currently working with php & javascript & Wordpress at [Quai 13](https://quai13.com), a web agency based in Marseille
 - 🌱 I’m currently learning about React & TS, Symfony, TDD, Clean architectures and more!
 - ⚡ Fun fact: I graduated in Economy and financial markets before studying web development
-- 📫 Reach me in [Linkedin](https://www.linkedin.com/in/carlos-ruiz-de-galarreta-494b5842/) | [Twitter](https://twitter.com/Carlosrgl_88) or [Gmail](mailto:hello@carlosrgl.com)
+- 📫 Reach me in [Linkedin](https://www.linkedin.com/in/carlos-ruiz-de-galarreta-494b5842/) | [Twitter](https://twitter.com/Carlosrgl_88) or [Gmail](mailto:contact@carlosrgl.com)
 <!-- - 🎯 Portfolio site: [Here!](https://pabloleonalcaide.github.io/Portfolio/) -->
