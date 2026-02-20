@@ -13,7 +13,7 @@ I'm Carlos RGL, Software Developer from Pamplona (Spain) and now living in Franc
 - 💻 Wordpress full developer
 - 🏍️ MotoGP Addict
 
-## Hello World!! 🤔
+## Where
 
 - 🔭 I’m currently working with php & javascript & Wordpress at [Quai 13](https://quai13.com), a web agency based in Marseille
 - 🌱 I’m currently learning about React & TS, Symfony, TDD, Clean architectures and more!
